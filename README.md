@@ -16,7 +16,7 @@ This starter template includes:
 First, clone this template with the following command:
 
 ```bash
-npx degit rauf-21/nextjs-starter-template YOUR_APP_NAME
+npx degit rauf-21/nextjs-chakra-starter-template YOUR_APP_NAME
 ```
 
 Install the dependencies:
